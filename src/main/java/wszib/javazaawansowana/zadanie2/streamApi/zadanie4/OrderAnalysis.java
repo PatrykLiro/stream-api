@@ -1,4 +1,4 @@
-package wszib.javazaawansowana.zadanie2.streamApi;
+package wszib.javazaawansowana.zadanie2.streamApi.zadanie4;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
